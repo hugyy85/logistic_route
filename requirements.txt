@@ -1,0 +1,5 @@
+pyroutelib3~=1.6.3
+requests~=2.23.0
+geopy~=1.22.0
+openpyxl~=3.0.3
+peewee~=3.13.3
